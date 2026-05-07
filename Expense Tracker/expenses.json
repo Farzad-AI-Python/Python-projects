@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Chicken",
+        "amount": 10.0,
+        "category": "Food",
+        "date": "2026-05-07 09:10:42"
+    },
+    {
+        "title": "Cookies",
+        "amount": 5.0,
+        "category": "Groceries",
+        "date": "2026-05-07 09:11:00"
+    },
+    {
+        "title": "Shirt",
+        "amount": 15.0,
+        "category": "Clothings",
+        "date": "2026-05-07 09:11:18"
+    },
+    {
+        "title": "Iphone 13 pro ",
+        "amount": 370.0,
+        "category": "Electronics",
+        "date": "2026-05-07 09:11:58"
+    },
+    {
+        "title": "Laptop",
+        "amount": 250.0,
+        "category": "Electronics",
+        "date": "2026-05-07 09:12:18"
+    }
+]
