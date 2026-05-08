@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "year": "2009",
+        "available": true
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": "2019",
+        "available": true
+    }
+]
