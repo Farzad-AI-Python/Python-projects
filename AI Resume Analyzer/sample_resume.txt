@@ -1,0 +1,15 @@
+Ahmad Farzad Samimi
+Email: ahmadfarzadsamimi11@gmail.com
+Phone: +93 777303571
+
+Profile:
+Computer Science applicant with interest in Python, data analysis, cybersecurity, and software development.
+
+Skills:
+Python, HTML, CSS, SQL, Git, GitHub, Excel, communication, teamwork, problem solving.
+
+Projects:
+Developed a banking management system, login authentication system, file encryption tool, and expense tracker using Python.
+
+Career Goal:
+To study Computer Science and build strong technical skills in software engineering, artificial intelligence, and data-driven systems.
